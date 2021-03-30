@@ -4,4 +4,36 @@ body {
     background-color: #f87b7b;
     color: #e7decc;
     font-family: "Yatra One", sans-serif;
+    text-align: center;
+}
+
+.main-navigation-bar{
+    background-color:#b1d7d8;
+    margin: 20px;
+    height: 100px;
+    width: auto;
+
+}
+
+ul > li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 46px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+    color: #e7decc;
+}
+
+.container{
+    display: inline-block;
+    background-color: #b1d7d8;
+    text-align: center;
+    border: 3px solid #b1d7d8;
+    width: 600px;
+    height: 800px;
 }
